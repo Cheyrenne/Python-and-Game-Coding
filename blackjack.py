@@ -1,6 +1,11 @@
 # Blackjack
 # From 1 to 7 players compete against a dealer
 
+# I referenced http://www.tutorialspoint.com/python/python_lists.htm 
+# for logical operators in Python.
+# I referenced http://docs.python.org/3/library/functions.html for 
+# built in list operators such as len()
+
 import cards, games    
 
 class BJ_Card(cards.Card):
